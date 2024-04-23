@@ -1,0 +1,45 @@
+{
+  "intents": [
+    {
+      "tags": "cramps",
+      "patterns": [
+        "What are period cramps?",
+        "What causes period cramps?"
+      ],
+      "responses": [
+      "Period cramps, also known as menstrual cramps or dysmenorrhea, are the pain experienced in the lower abdomen before or during menstruation."
+      ]
+    },
+
+
+    {
+      "tags": "PCOS",
+      "patterns": ["What is PCOS?",
+	        "What are the symptoms of PCOS?"
+       ],
+      "responses": [
+      "“PCOS stands for Polycystic Ovary Syndrome, a hormonal disorder common among women of reproductive age. It causes enlarged ovaries with small cysts on the outer edges."
+      ]
+    },
+
+
+    {
+      "tags": "bleeding",
+      "patterns": ["What is considered heavy menstrual bleeding?",
+                        "What are the common causes of heavy bleeding?"],
+      "responses": ["Heavy menstrual bleeding, also known as menorrhagia, is defined as excessive or prolonged menstrual bleeding."]
+    },
+
+
+    {
+      "tags": "dryness",
+      "patterns": [
+       "What is vaginal dryness?",
+       "What causes vaginal dryness?"
+      ],
+      "responses": [
+      "Vaginal dryness refers to a condition where the vagina lacks sufficient moisture and lubrication, leading to discomfort, itching, and pain during sexual intercourse or other activities."
+      ]
+    }
+  ]
+}
